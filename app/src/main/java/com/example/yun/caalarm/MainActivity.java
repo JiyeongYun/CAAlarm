@@ -102,6 +102,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             return position;
         }
 
+        
         public View getView(int position, View convertView, ViewGroup parent) {
             RowDataViewHolder viewHolder;
 
