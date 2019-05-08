@@ -101,7 +101,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             // TODO Auto-generated method stub
             return position;
         }
-   
+
 
         public View getView(int position, View convertView, ViewGroup parent) {
             RowDataViewHolder viewHolder;
